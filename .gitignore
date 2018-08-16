@@ -1,0 +1,5 @@
+/target
+**/*.rs.bk
+*.wasm
+wordscapes.d.ts
+webpack.config.js

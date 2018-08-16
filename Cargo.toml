@@ -1,0 +1,13 @@
+[package]
+name = "wordscapes"
+version = "0.1.0"
+authors = ["Benjamin Congdon <bencongdon96@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+sequence_trie = "0.3.5"
+permutohedron = "0.2.4"
+wasm-bindgen = "0.2.13"
+
